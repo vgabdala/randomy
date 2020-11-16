@@ -1,0 +1,47 @@
+{
+  "name": "react-raffle",
+  "version": "2.1.0",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "react": "^16.13.0",
+    "react-bootstrap": "^1.4.0",
+    "react-cookie": "^4.0.3",
+    "react-dom": "^16.13.0",
+    "react-scripts": "3.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "This is a simple app to do Raffles. Adapted from Hector's version of react-raffle. Thank you Hector!",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hectortosa/react-raffle.git"
+  },
+  "keywords": [
+    "react",
+    "raffle",
+    "serverless"
+  ],
+  "author": "Héctor Tortosa <hector.tortosa@icloud.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hectortosa/react-raffle/issues"
+  },
+  "homepage": "https://rafflrapp.netlify.com"
+}

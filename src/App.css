@@ -1,0 +1,29 @@
+.Section-title {
+  font-size: x-large;
+  text-transform: capitalize;
+}
+
+.Section-Winner {
+  font-size: xx-large;
+  text-transform: capitalize;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.list-item {
+  font-size: 1em;
+  border-color: rgb(53, 53, 53);
+  padding-top: 10px;
+}
+
+.selected {
+  text-decoration: line-through;
+  text-decoration-color: red;
+  color: lightgrey;
+}
+
+.displayNone {
+  display: none;
+}
